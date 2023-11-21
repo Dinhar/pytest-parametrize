@@ -1,5 +1,5 @@
-from data23.name import BrowserName
-from data23.version import BrowserVersion
+from src.name import BrowserName
+from src.version import BrowserVersion
 
 class Browser:
     name: BrowserName
